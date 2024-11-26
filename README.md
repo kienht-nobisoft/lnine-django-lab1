@@ -8,7 +8,7 @@ This document provides instructions to set up and run project.
 ### **Clone the Repository**
 
 ```bash
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/kienht-nobisoft/lnine-django-lab1.git
 ```
 
 ---
